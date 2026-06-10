@@ -1,0 +1,6 @@
+{
+  "name": "HDX-DASH",
+  "description": "Premium Minecraft server hosting dashboard for requesting servers, tracking approvals, and managing server credentials with a gaming aesthetics design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
